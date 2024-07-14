@@ -6,14 +6,13 @@
   <a href="https://github.com/abdeldjabar005?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdeldjabar005?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 </p>
 
 <a href="#abdeldjabar005-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeldjabar005&show_icons=true" alt="abdeldjabar005" align="right" />
+  <img src="https://githubstats-abdeldjabar005s-projects.vercel.app/api?username=abdeldjabar005&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" alt="abdeldjabar005" align="right" />
 </a>
+
+
 
 - :house: I'm currently living at Batna City, Algeria.
 - :computer: I'm currently working as a Software Engineer.
@@ -32,6 +31,9 @@ CONST ABDELDJABAR = {
   challenge: "I am working on improving my skills."
 }
 ```
+<a href="#abdeldjabar005-title">
+  <img src="https://githubstats-abdeldjabar005s-projects.vercel.app/api/top-langs/?username=abdeldjabar005&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="abdeldjabar005" />
+</a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

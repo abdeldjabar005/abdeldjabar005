@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Abdeldjabar</h1>
+<p align="left">
+  <a href="https://github.com/abdeldjabar005">
+    <img src="https://komarev.com/ghpvc/?username=abdeldjabar005" alt="page views">
+  </a>
+  <a href="https://github.com/abdeldjabar005?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdeldjabar005?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-<!--
-**abdeldjabar005/abdeldjabar005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#abdeldjabar005-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeldjabar005&show_icons=true" alt="abdeldjabar005" align="right" />
+</a>
 
-Here are some ideas to get you started:
+- :house: I'm currently living at Batna City, Algeria.
+- :computer: I'm currently working as a Software Engineer.
+- :dart: I'm currently working on different personal projects.
+- :coffee: I'm coffeer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```ruby
+CONST ABDELDJABAR = {
+  languages: ["JavaScript", "Dart", "PHP"],
+  backend: ["Laravel"],
+  frontend: ["Flutter"],
+  database: ["Postgresql", "mySQL", "Redis"],
+  architecture: ["Clean architecture", "MVC"],
+  challenge: "I am working on improving my skills."
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---

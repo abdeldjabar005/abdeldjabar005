@@ -9,7 +9,7 @@
 </p>
 
 <a href="#abdeldjabar005-title">
-  <img src="https://githubstats-abdeldjabar005s-projects.vercel.app/api?username=abdeldjabar005&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" alt="abdeldjabar005" align="right" />
+  <img src="https://githubstats-abdeldjabar005s-projects.vercel.app/api?username=abdeldjabar005&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515" alt="abdeldjabar005" align="right" />
 </a>
 
 
